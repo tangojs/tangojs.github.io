@@ -1,0 +1,13 @@
+# Site settings
+title: TangoJS
+email: liszcz.michal[at]gmail.com
+description: Web frontend stack for TANGO Controls.
+copyright: © 2016 Michal Liszcz. MIT license.
+baseurl: ""
+url: "https://tangojs.github.io"
+twitter_username:
+github_username: tangojs
+github_maintainer: mliszcz
+
+# Build settings
+markdown: kramdown
