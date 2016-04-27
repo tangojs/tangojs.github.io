@@ -1,6 +1,6 @@
 ---
 layout: page
 title: API
-permalink: /api
-external_url: http://mliszcz.github.io/tangojs
+permalink: /apidocs
+external_url: http://tangojs.github.io/apidocs
 ---
